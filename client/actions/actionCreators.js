@@ -1,4 +1,4 @@
-export const increment = index => ({
+export const increment = (index) => ({
 	type: 'INCREMENT_LIKES',
 	index,
 });
